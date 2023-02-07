@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.carousel__img1 {
+    height: 400px;
+    object-fit: cover; /* preenche todo o espaço do container, preservando a proporção (a imagem será cortada para se adequar) */
+    object-position: 0 80%; /* posiciona a imagem no foco desejado */
+}
+
+.carousel__img2 {
+    height: 400px;
+    object-fit: cover;
+}
+
+.title {
+    font-family: 'Pacifico', cursive;
+}
+
+.title--highlight {
+    color: darkred!important;
+}
+
+.button__default {
+    background-color: darkred;
+    color: white;
+}
+
+.recipe__border {
+    border-color: darkred;
+    max-width: 18rem;
+}
+
+.recipe__img {
+    height: 200px;
+    object-fit: cover;
+    /* object-position: 0 80%; */
+}
