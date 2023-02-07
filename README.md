@@ -32,32 +32,48 @@ Foi disponibilizado todo o material de `HTML` pronto, pois o foco, neste projeto
 </br>
 
 **Foi aprendido e utilizado:** 
-- Instalação do Bootstrap;
-- Como o Bootstrap funciona utilizando classes para aplicar estilos pré-definidos;
-- Pesquisar na documentação e descobrir se o Bootstrap tem a funcionalidade que precisamos (e de que forma usamos isso!);
-- A ler o código do Bootstrap, interpretá-lo e fazer as modificações que precisamos;
-- Funcionamento do Flexbox (e a versão Bootstrap, Flex), uma das ferramentas de alinhamento poderosas do CSS;
-- Ler mais um pouco da documentação do Bootstrap e usar seu componente carousel;
-- Ler o HTML e ir descobrindo o que fazem algumas partes do código do Bootstrap;
-- Utilizar o CSS para complementar nosso trabalho quando o Bootstrap não cobre 100%;
-- Trabalhar com elementos de tamanho fixo, como imagens:
-  - `object-fit: cover;`, preenche todo o espaço do container, preservando a proporção (a imagem será cortada para se adequar);
-  - `object-position: x y;`, posiciona a imagem no foco desejado.
-- Formatar textos utilizando o Bootstrap;
-- Formatar elementos de texto com o Bootstrap;
-- Utilizar o Bootstrap para controlar larguras e alturas de `margin` e `padding`;
-- Utilizar o componente card do Bootstrap;
-- Personalizar o componente quando necessário usando nossas próprias classes;
-- Adotar algumas `tags semânticas` no HTML;
-- Trabalhar mais com o componente card e personalizar as informações;
-- Fazer mais alguns ajustes de imagens;
-- Utilizar algumas ferramentas do `Bootstrap Grid`;
-- Identificar alguns tipos de modais na documentação do Bootstrap;
-- Inserir modais em nosso código;
-- Estilizar e adaptar os modais ao nosso projeto;
-- Identificar onde podemos utilizar mais tags semânticas e fazer substituições;
-- Fazer pequenos ajustes de leiaute com o CSS;
-- Implementar um rodapé com elementos de texto simples.
+
+- **Instalação do Bootstrap:**
+  - Como o Bootstrap funciona utilizando classes para aplicar estilos pré-definidos;
+  - Pesquisar na documentação e descobrir se o Bootstrap tem a funcionalidade necessária;
+
+- **Implementando a navbar:**
+  - Ler o código do Bootstrap, interpretá-lo e fazer as modificações necessárias;
+  - Funcionamento do Flexbox (e a versão Bootstrap, Flex), uma das ferramentas de alinhamento poderosas do CSS;
+
+- **Carrosel:**
+  - Ler mais um pouco da documentação do Bootstrap e usar seu componente `carousel`;
+  - Adicionando o carrossel e resolvendo bugs;
+  - Ler o HTML e ir descobrindo o que fazem algumas partes do código do Bootstrap;
+  - Utilizar o CSS para complementar nosso trabalho quando o Bootstrap não cobre 100%;
+  - Trabalhar com elementos de tamanho fixo, como imagens:
+    - `object-fit: cover;`, preenche todo o espaço do container, preservando a proporção (a imagem será cortada para se adequar);
+    - `object-position: x y;`, posiciona a imagem no foco desejado.
+
+- **Títulos, textos e ferramentas de espaçamento:**
+  - Formatar textos utilizando o Bootstrap;
+  - Formatar elementos de texto com o Bootstrap;
+  - Utilizar o Bootstrap para controlar larguras e alturas de `margin` e `padding`;
+
+- **Conhecendo o HTML semântico e inserindo cards:**
+  - Utilizar o componente `card` do Bootstrap;
+  - Personalizar o componente quando necessário usando nossas próprias classes;
+  - Adotar algumas `tags semânticas` no HTML;
+  - Trabalhar mais com o componente card e personalizar as informações;
+  - Fazer mais alguns ajustes de imagens;
+
+- **Alinhando elementos com Bootstrap Grid:**
+  - Utilizar algumas ferramentas do `Bootstrap Grid`;
+  - Identificar alguns tipos de modais na documentação do Bootstrap;
+
+- **Modais e últimos ajustes:**
+  - Inserir `modais` em nosso código;
+  - Estilizar e adaptar os modais ao nosso projeto;
+  - Identificar onde podemos utilizar mais tags semânticas e fazer substituições;
+  - Fazer pequenos ajustes de leiaute com o CSS;
+
+- **Footer:**
+  - Implementar um rodapé com elementos de texto simples.
 
 </br>
 
